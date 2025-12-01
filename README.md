@@ -2,6 +2,101 @@
 
 Prototype Demo: https://truthweave-mind.lovable.app
 
+TruthMesh — Verifiable Intelligence Layer for AI
+TruthMesh turns AI-generated answers into cryptographically verifiable knowledge by combining multi-agent reasoning, decentralized storage, reputation, and cross-chain trust anchors.
+TruthMesh — Verifiable Intelligence Layer for AI
+TruthMesh turns AI-generated answers into cryptographically verifiable knowledge by combining multi-agent reasoning, decentralized storage, reputation, and cross-chain trust anchors.
+
+🚧 Problem
+AI generates information faster than humans can verify it.
+We face:
+Hallucinations
+Conflicting sources
+Deepfakes
+Opaque model biases
+No provenance or accountability
+Trust—not access—is the real bottleneck.
+
+🚀 Solution
+TruthMesh builds a mesh of truth:
+a decentralized verification pipeline backed by the OriginTrail DKG, multi-agent intelligence, and Polkadot/NeuroWeb anchoring.
+
+🧠 Architecture
+Agent Layer
+Retriever → Alignment → Verifier → Reputation → Publisher
+Agents coordinate via MCP messaging
+Outputs: structured claims, contradictions, confidence scoring
+Knowledge Layer
+JSON-LD Knowledge Assets stored on DKG
+Provenance, evidence graphs, timestamps
+Immutable cross-chain anchoring to NeuroWeb
+Trust Layer
+Reputation graph (Sybil-resistant)
+Optional x402 micropayments for staking + rewards
+Auditable datasets for any application
+
+🎯 Use Cases
+High-trust AI Assistants
+Scientific consensus engines
+Media + deepfake verification
+Web3 governance and cross-chain oracles
+Enterprise compliance
+Research copilots
+
+🌍 Impact
+TruthMesh makes AI:
+✔ Transparent
+✔ Auditable
+✔ Accountable
+✔ Community-driven
+✔ Cross-chain verifiable
+It doesn’t just answer—it proves.
+
+🚧 Problem
+AI generates information faster than humans can verify it.
+We face:
+Hallucinations
+Conflicting sources
+Deepfakes
+Opaque model biases
+No provenance or accountability
+Trust—not access—is the real bottleneck.
+
+🚀 Solution
+TruthMesh builds a mesh of truth:
+a decentralized verification pipeline backed by the OriginTrail DKG, multi-agent intelligence, and Polkadot/NeuroWeb anchoring.
+
+🧠 Architecture
+Agent Layer
+Retriever → Alignment → Verifier → Reputation → Publisher
+Agents coordinate via MCP messaging
+Outputs: structured claims, contradictions, confidence scoring
+Knowledge Layer
+JSON-LD Knowledge Assets stored on DKG
+Provenance, evidence graphs, timestamps
+Immutable cross-chain anchoring to NeuroWeb
+Trust Layer
+Reputation graph (Sybil-resistant)
+Optional x402 micropayments for staking + rewards
+Auditable datasets for any application
+
+🎯 Use Cases
+High-trust AI Assistants
+Scientific consensus engines
+Media + deepfake verification
+Web3 governance and cross-chain oracles
+Enterprise compliance
+Research copilots
+
+🌍 Impact
+TruthMesh makes AI:
+✔ Transparent
+✔ Auditable
+✔ Accountable
+✔ Community-driven
+✔ Cross-chain verifiable
+It doesn’t just answer—it proves.
+
   TruthMesh envisions a world where intelligence is trustworthy by default — where every claim, insight, and computation produced by AI agents comes with transparent provenance, cryptographic verification, and community-driven accountability. Today’s AI models generate answers that are powerful but opaque. Sources disappear, citations are 
 
 # TruthMesh — Verifiable Multi-Agent Intelligence
