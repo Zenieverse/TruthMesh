@@ -2,6 +2,8 @@
 
 Prototype Demo: https://truthweave-mind.lovable.app
 
+https://vimeo.com/1141952179
+
 <img width="1280" height="656" alt="IMG_1371" src="https://github.com/user-attachments/assets/beef51b5-2017-4b1a-a3ea-76d1576d9b23" />
 
 TruthMesh — Verifiable Intelligence Layer for AI
